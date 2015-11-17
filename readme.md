@@ -11,6 +11,9 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ## Packages
 
+### Platforms
+- [Vizor](http://vizor.io/) - Vizor is a platform for creating and sharing VR content on the web. Vizor features a 3D world editor and a powerful, visual programming language. 
+
 ### Frameworks
 - [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript
 
