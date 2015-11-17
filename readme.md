@@ -26,9 +26,13 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Markup Language
 
+### Games
+- [Iberia Virtual Flight](http://virtualflight.iberia.com) - A WebVR game to prove your piloting skills above the clouds ( Google Cardboard & Oculus Rift optimized )
+
 ### Apps
 
 ### Demo
+- [I N S P I R I T](http://inspirit.unboring.net) - An interactive story about people and lights ( Google Cardboard & Oculus Rift optimized )
 
 ## Resources
 
