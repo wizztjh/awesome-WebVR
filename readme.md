@@ -7,17 +7,17 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-Please raise a [Pull-Request](https://github.com/wizztjh/awesome-webvr/pulls) to add an awesome WebVR thing to this list.
+Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to add an awesome WebVR thing to this list.
 
 ## Packages
 
 ### Frameworks
-- [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3d environments using html-like tags and javascrip
+- [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript
 
 ### Libraries
 
 ### Utilities
-- [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate)- A starting point for web-based VR experiences that work in both Cardboard and Oculus.
+- [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate) - A starting point for web-based VR experiences that work in both Cardboard and Oculus
 
 ### Coding Environment
 - [RiftSketch](https://github.com/brianpeiris/RiftSketch) - An HTML5 live-coding environment for the Oculus Rift
@@ -40,4 +40,4 @@ Please raise a [Pull-Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tee Jia Hen ](http://twitter/wizztjh) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tee Jia Hen](http://twitter/wizztjh) has waived all copyright and related or neighboring rights to this work.
