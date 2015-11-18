@@ -74,6 +74,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Webgl workshop](https://github.com/stackgl/webgl-workshop) - :mortar_board: The sequel to shader-school: Learn the WebGL API
 
 ### Books
+- [Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do) - Developing Immersive Experiences and Applications for Desktop, Web, and Mobile By Tony Parisi
 
 ## License
 
