@@ -29,13 +29,10 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate) - A starting point for web-based VR experiences that work in both Cardboard and Oculus
 - [eleVR Web Player](https://github.com/hawksley/eleVR-Web-Player) - WebGL-based 360° video player by [Andrea Hawksley](https://twitter.com/AndreaHawksley) of [eleVR](http://elevr.com/) (Oculus Rift)
 - [Littlstar Axis Player](https://github.com/littlstar/axis) - WebGL-based (three.js) 360° video player by [Littlstar](http://littlstar.com/) (Oculus Rift)
+- [VRcollab WebVR Markup](https://github.com/vr-collab/webvr-markup) - High-level VR markup for building scenes
 
 ### Coding Environment
 - [RiftSketch](https://github.com/brianpeiris/RiftSketch) - An HTML5 live-coding environment for the Oculus Rift
-
-### Coding Environment
-
-### Markup Language
 
 ### Games
 
