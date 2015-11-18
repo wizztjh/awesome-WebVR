@@ -71,6 +71,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [/r/webvr on Reddit](https://www.reddit.com/r/webvr)
 
 ### Tutorials
+- [Webgl workshop](https://github.com/stackgl/webgl-workshop) - :mortar_board: The sequel to shader-school: Learn the WebGL API
 
 ### Books
 
