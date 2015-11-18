@@ -60,10 +60,12 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ## Resources
 
+### Browsers
 - [Firefox Nightly](http://mozvr.com/downloads/)
 - [Chromium builds](https://drive.google.com/folderview?id=0BzudLt22BqGRbW9WTHMtOWMzNjQ#list)
 - [Chromium WebVR issue tracker](https://github.com/toji/chrome-webvr-issues/issues)
 
+### Community
 - [WebVR Slack](https://webvr-slack.herokuapp.com)
 - [WebVR mailing list](https://mail.mozilla.org/listinfo/web-vr-discuss)
 - [/r/webvr on Reddit](https://www.reddit.com/r/webvr)
