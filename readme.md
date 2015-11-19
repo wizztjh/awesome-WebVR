@@ -27,6 +27,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 ### Utilities
 
 - [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate) - A starting point for web-based VR experiences that work in both Cardboard and Oculus
+- [GLAM](http://tparisi.github.io/glam/) - GLAM (GL And Markup) is a declarative language for 3D web content.
 - [eleVR Web Player](https://github.com/hawksley/eleVR-Web-Player) - WebGL-based 360° video player by [Andrea Hawksley](https://twitter.com/AndreaHawksley) of [eleVR](http://elevr.com/) (Oculus Rift)
 - [Littlstar Axis Player](https://github.com/littlstar/axis) - WebGL-based (three.js) 360° video player by [Littlstar](http://littlstar.com/) (Oculus Rift)
 - [VRcollab WebVR Markup](https://github.com/vr-collab/webvr-markup) - High-level VR markup for building scenes
@@ -73,6 +74,9 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Books
 - [Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do) - Developing Immersive Experiences and Applications for Desktop, Web, and Mobile By Tony Parisi
+
+### UI/UX
+- [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
 
 ## License
 
