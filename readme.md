@@ -54,7 +54,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Head WebVR demo](https://cdn.rawgit.com/pbeck/head-webvr/master/index.html) - WebGL skin rendering demo by [Pelle Beckman](https://twitter.com/pbeck)
 - [I N S P I R I T](http://inspirit.unboring.net) - An interactive story about people and lights (Google Cardboard, Oculus Rift)
 - ["Playing With" Experiments](http://vihart.github.io/webVR-playing-with/) - A couple linked experiments by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
-- - [Pulse](http://cabbi.bo/pulse/#VR) - A scene by [Cabbibo](https://twitter.com/cabbibo/) (Oculus Rift)
+- [Pulse](http://cabbi.bo/pulse/#VR) - A scene by [Cabbibo](https://twitter.com/cabbibo/) (Oculus Rift)
 - [Quake 3](http://media.tojicode.com/q3bsp/) - Demo of Quake 3 in WebGL (Oculus Rift, HTC Vive)
 - [Spindex](http://vihart.github.io/webVR-playing-with/spindex) - An experiment by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Suspended Cuboids](https://webvr-experiments.herokuapp.com/suspended-cuboids.html) - A scene by Matthew Hollings (Oculus Rift)
