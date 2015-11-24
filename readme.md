@@ -47,6 +47,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Demos
 
+- [ArtSocks](https://art-socks.herokuapp.com/demo.html) - An experimental VR art gallery with multiplayer using web sockets by [dziemid](https://twitter.com/dziemid) (Google Cardboard)
 - [Compound](http://vihart.github.io/webVR-playing-with/compound) - An experiment by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Cruciform](https://www.clicktorelease.com/code/cruciform/) - An experiment in architecture visualization with glossy objects by [Jaume Sanchez Elias](https://twitter.com/thespite)
 - [Float](http://vihart.github.io/float/) - Floating sky islands by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift, HTC Vive)
