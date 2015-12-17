@@ -20,7 +20,8 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Frameworks
 
-- [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript
+- [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript.
+- [A-Frame](https://aframe.io/) - Building blocks for the virtual reality web.
 
 ### Libraries
 
