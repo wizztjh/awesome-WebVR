@@ -81,7 +81,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do) - Developing Immersive Experiences and Applications for Desktop, Web, and Mobile By Tony Parisi
 
 ### UI/UX
-- [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
+- [UI/UX VR](http://www.uxofvr.com) - A list of resources about the UI/UX considerations for VR.
 
 ## License
 
