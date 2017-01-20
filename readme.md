@@ -25,6 +25,8 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Libraries
 
+- [html2three](https://github.com/marciot/html2three) - A library for creating VR web-sites using HTML and CSS 
+
 ### Utilities
 
 - [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate) - A starting point for web-based VR experiences that work in both Cardboard and Oculus
@@ -40,6 +42,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 ### Games
 
 - [Iberia Virtual Flight](http://virtualflight.iberia.com) - A WebVR game to prove your piloting skills above the clouds ( Google Cardboard & Oculus Rift optimized )
+- [Maze War VR](http://mazewar.marciot.com) - A multi-player, browser-based remake of Maze War from 1974, the first first person shooter
 
 ### Music Video
 - [Livyatanim](http://film.livyatanim.com/film.html#) - interactive music film by OR FLEISHER
