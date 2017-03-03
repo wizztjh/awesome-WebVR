@@ -38,6 +38,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 ### Coding Environment
 - [RiftSketch](https://github.com/brianpeiris/RiftSketch) - An HTML5 live-coding environment for the Oculus Rift
 - [Primrose Editor](https://github.com/capnmidnight/Primrose) - A framework and collection of UI components for creating interactive WebVR applications.
+- [nunuStudio](https://github.com/tentone/nunuStudio) - A JS based IDE for 3D and VR applications that run directly on the browser
 
 ### Games
 
