@@ -17,6 +17,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Beloola](http://www.beloola.com/) - Beloola is a social Web VR platform that allows people with shared passions to congregate in the same user-generated virtual place in real-time.
 - [Vrideo](https://www.vrideo.com/) - Vrideo is an online 360° video and virtual experience streaming service.
 - [VRCHIVE](http://alpha.vrchive.com/) - VRCHIVE hosts spherical panoramas in VR and makes them easily sharable across devices.
+- [Kokowa](https://www.kokowa.co/) - Kokowa is a webVR publishing platform aimed at non-programmers. Its simple, drag and drop editor allows anyone to easily create and share webVR content.
 
 ### Frameworks
 
