@@ -45,6 +45,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 - [Iberia Virtual Flight](http://virtualflight.iberia.com) - A WebVR game to prove your piloting skills above the clouds ( Google Cardboard & Oculus Rift optimized )
 - [Maze War VR](http://mazewar.marciot.com) - A multi-player, browser-based remake of Maze War from 1974, the first first person shooter
+- [Jocly](https://mi-g.github.io/jocly/examples/browser/control.html) - Plenty of playable board games, like Chess ( best user experience with Vive or Rift+Touch )
 
 ### Music Video
 - [Livyatanim](http://film.livyatanim.com/film.html#) - interactive music film by OR FLEISHER
