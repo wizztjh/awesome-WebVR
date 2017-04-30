@@ -15,7 +15,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 - [Vizor](http://vizor.io/) - Vizor is a platform for creating and sharing VR content on the web. Vizor features a 3D world editor and a powerful, visual programming language.
 - [Beloola](http://www.beloola.com/) - Beloola is a social Web VR platform that allows people with shared passions to congregate in the same user-generated virtual place in real-time.
-- [Vrideo](https://www.vrideo.com/) - Vrideo is an online 360° video and virtual experience streaming service.
+- [Vrideo](https://www.vrideo.com/) - Vrideo is an online 360° video and virtual experience streaming service. ( Vrideo was shutdown on 11/21/16 )
 - [VRCHIVE](http://alpha.vrchive.com/) - VRCHIVE hosts spherical panoramas in VR and makes them easily sharable across devices.
 - [Kokowa](https://www.kokowa.co/) - Kokowa is a webVR publishing platform aimed at non-programmers. Its simple, drag and drop editor allows anyone to easily create and share webVR content.
 
