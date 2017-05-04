@@ -89,6 +89,9 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 ### UI/UX
 - [UI/UX VR](http://www.uxofvr.com) - A list of resources about the UI/UX considerations for VR.
 
+### Assets
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
