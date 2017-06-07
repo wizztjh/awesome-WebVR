@@ -23,6 +23,8 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 - [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript.
 - [A-Frame](https://aframe.io/) - Building blocks for the virtual reality web.
+- [LÖVR](http://lovr.org) - A simple framework for creating VR experiences with Lua (targets WebVR
+  using emscripten, see http://lovr.org/share for a drag and drop export tool).
 
 ### Libraries
 
