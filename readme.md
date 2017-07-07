@@ -56,6 +56,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 
 ### Demos
 
+- [WebVR-Mini](https://github.com/pindiespace/webvr-mini) - A demonstration of how to create a WebVR app using vanilla ES6 JavaScript without any framework (i.e. no THREE.JS). Code also shows how to make the webvr canvas acts nicely with web page layouts using responsive design strategy.
 - [ArtSocks](https://art-socks.herokuapp.com/demo.html) - An experimental VR art gallery with virtual pointer to share where the user is looking using web sockets by [dziemid](https://twitter.com/dziemid) (Google Cardboard)
 - [Compound](http://vihart.github.io/webVR-playing-with/compound) - An experiment by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Cruciform](https://www.clicktorelease.com/code/cruciform/) - An experiment in architecture visualization with glossy objects by [Jaume Sanchez Elias](https://twitter.com/thespite)
