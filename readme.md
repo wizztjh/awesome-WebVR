@@ -70,6 +70,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Spindex](http://vihart.github.io/webVR-playing-with/spindex) - An experiment by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Suspended Cuboids](https://webvr-experiments.herokuapp.com/suspended-cuboids.html) - A scene by Matthew Hollings (Oculus Rift)
 - [VR World Navigation](http://hawksley.github.io/VR-World-Nav/) - An experiment using `<iframe>`s to traverse VR worlds by [Andrea Hawksley](https://twitter.com/AndreaHawksley) (Oculus Rift)
+- [WebVR Physics](https://github.com/beemsoft/webvr-physics) - Combines the [Cannon.js physics library](http://www.cannonjs.org) with the [Ray Input library](https://github.com/borismus/ray-input).
 
 ## Resources
 
