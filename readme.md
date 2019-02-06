@@ -69,6 +69,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - ["Playing With" Experiments](http://vihart.github.io/webVR-playing-with/) - A couple linked experiments by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Pulse](http://cabbi.bo/pulse/#VR) - A scene by [Cabbibo](https://twitter.com/cabbibo/) (Oculus Rift)
 - [Quake 3](http://media.tojicode.com/q3bsp/) - Demo of Quake 3 in WebGL (Oculus Rift, HTC Vive)
+- [Special Functions](https://paulmasson.github.io/webvr-worlds/functions/) - Complex special functions colored by phase for the mathematically inclined.
 - [Spindex](http://vihart.github.io/webVR-playing-with/spindex) - An experiment by [Vi Hart](https://twitter.com/vihartvihart/) (Oculus Rift)
 - [Suspended Cuboids](https://webvr-experiments.herokuapp.com/suspended-cuboids.html) - A scene by Matthew Hollings (Oculus Rift)
 - [VR World Navigation](http://hawksley.github.io/VR-World-Nav/) - An experiment using `<iframe>`s to traverse VR worlds by [Andrea Hawksley](https://twitter.com/AndreaHawksley) (Oculus Rift)
