@@ -18,12 +18,14 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Vrideo](https://www.vrideo.com/) - Vrideo is an online 360° video and virtual experience streaming service. ( Vrideo was shutdown on 11/21/16 )
 - [VRCHIVE](http://alpha.vrchive.com/) - VRCHIVE hosts spherical panoramas in VR and makes them easily sharable across devices.
 - [Kokowa](https://www.kokowa.co/) - Kokowa is a webVR publishing platform aimed at non-programmers. Its simple, drag and drop editor allows anyone to easily create and share webVR content.
+- [Vesta](https://vesta.janusvr.com) - VESTA is a place for 3D content creators to share their creations and receive feedback from a growing community of explorers.
 
 ### Frameworks
 
 - [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
 - [SceneVR](https://github.com/scenevr/server) - :heart_eyes: Create multiuser 3D environments using HTML-like tags and JavaScript.
 - [A-Frame](https://aframe.io/) - Building blocks for the virtual reality web.
+- [Janusweb](https://github.com/jbaicoianu/janusweb) - A web framework for building social virtual reality experiences.
 - [LÖVR](http://lovr.org) - A simple framework for creating VR experiences with Lua (targets WebVR
   using emscripten, see http://lovr.org/share for a drag and drop export tool).
 
@@ -44,6 +46,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [RiftSketch](https://github.com/brianpeiris/RiftSketch) - An HTML5 live-coding environment for the Oculus Rift
 - [Primrose Editor](https://github.com/capnmidnight/Primrose) - A framework and collection of UI components for creating interactive WebVR applications.
 - [nunuStudio](https://github.com/tentone/nunuStudio) - A JS based IDE for 3D and VR applications that run directly on the browser
+- [Janus](http://janusvr.com/) - Collaborative VR browser and building environment that can export scenes as XML/JSON
 
 ### Games
 
@@ -82,6 +85,7 @@ Please raise a [Pull Request](https://github.com/wizztjh/awesome-webvr/pulls) to
 - [Firefox Nightly](http://mozvr.com/downloads/)
 - [Chromium builds](https://drive.google.com/folderview?id=0BzudLt22BqGRbW9WTHMtOWMzNjQ#list)
 - [Chromium WebVR issue tracker](https://github.com/toji/chrome-webvr-issues/issues)
+- [Brave-dev](https://brave.com/download-dev/)
 
 ### Community
 - [WebVR Slack](https://webvr-slack.herokuapp.com)
